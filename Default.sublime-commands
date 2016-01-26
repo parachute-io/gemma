@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Gemma: Replace selection/line with Gemfile entry for latest stable version",
+    "command": "gemma"
+  }
+]
