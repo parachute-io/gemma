@@ -4,6 +4,8 @@ A Sublime Text 3 plugin for easily adding gems to your Gemfile. (Might also work
 
 Tired of searching RubyGems and then copy-pasting the Gemfile entry to your project? Rejoice, for your days of misspelled gems lacking version constraints are over!
 
+![Demo GIF](demo.gif)
+
 ## Installation
 
 Installation via [Package Control](https://packagecontrol.io/) is recommended.
